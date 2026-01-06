@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poonam Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy-fork-two.vercel.app/)"><img src="https://github-profile-trophy.vercel.app/?username=cap-poo" alt="cap-poo" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-winning.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=cap-poo" alt="cap-poo" /></a> </p>
 
 - 🔭 I’m currently working on **Research on APT group**
 
