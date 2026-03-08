@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **poonammaharjan09@gmail.com**
 
-- ⚡ Fun fact **I can go on reading novels 24/7**
+- ⚡ Fun fact **I can go on reading novels 15 hours stright
 
 
 <h3 align="left">Languages and Tools:</h3>
